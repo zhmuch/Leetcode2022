@@ -1,5 +1,9 @@
 package com.example.kotlinplayground.google.array
 
+/**
+ * 001
+ * https://leetcode.com/problems/two-sum/
+ */
 fun twoSum(nums: IntArray, target: Int): IntArray {
     return loopFind(nums, target)
 }
