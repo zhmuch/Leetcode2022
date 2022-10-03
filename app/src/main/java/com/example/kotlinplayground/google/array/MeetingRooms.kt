@@ -149,3 +149,88 @@ class MeetingRoomsII {
         return maxRoom
     }
 }
+
+/**
+ * 2402 Meeting Rooms III
+ * https://leetcode.com/problems/meeting-rooms-iii/
+ */
+class MeetingRoomsIII {
+
+    private val INVALID_RESULT = -1
+
+    /**
+     * Solution 1:
+     *
+     * 1. Put all intervals in priority queue.
+     * 2. Keep track of all rooms.
+     * 3. Keep track of delayed events.
+     * 4. Pop up interval one by one
+     */
+    @RequiresApi(Build.VERSION_CODES.N)
+    fun mostBooked(n: Int, meetings: Array<IntArray>): Int {
+            // Construct priority queue for meetings
+        val meetingsPool = PriorityQueue<Meeting> { meeting1, meeting2 ->
+            meeting1.startTime - meeting2.startTime
+        }
+        for (meeting in meetings) {
+            meetingsPool.add(Meeting(meeting[0], meeting[1]))
+        }
+
+        // Construct all rooms
+        val rooms = List(n) { i -> Room(i) }
+
+        while(meetingsPool.isNotEmpty()) {
+            val nextMeeting = meetingsPool.poll()
+            val nextRoom = rooms.findNextAvailableRoom(nextMeeting.startTime)
+            nextRoom.apply {
+                nextAvailableTime = Math.max(nextAvailableTime, nextMeeting.startTime) +
+                        nextMeeting.duration()
+                count++
+            }
+        }
+
+        return rooms.findMostBookedRoom()
+    }
+
+    data class Room(
+        val index: Int,
+        var nextAvailableTime: Int = -1,
+        var count: Int = 0
+    )
+
+    data class Meeting(
+        val startTime: Int,
+        val endTime: Int
+    )
+
+    private fun List<Room>.findNextAvailableRoom(startTime: Int): Room {
+        for (i in 0 until this.size) {
+            if (this[i].nextAvailableTime <= startTime) {
+                return this[i]
+            }
+        }
+        var nextTime = Int.MAX_VALUE
+        var index = -1
+        for (i in 0 until this.size) {
+            if (this[i].nextAvailableTime < nextTime) {
+                nextTime = this[i].nextAvailableTime
+                index = i
+            }
+        }
+        return this[index]
+    }
+
+    private fun List<Room>.findMostBookedRoom(): Int {
+        var mostBookedIndex = -1
+        var mostBookedTimes = -1
+        this.forEach {
+            if (it.count > mostBookedTimes) {
+                mostBookedIndex = it.index
+                mostBookedTimes = it.count
+            }
+        }
+        return mostBookedIndex
+    }
+
+    private fun Meeting.duration(): Int = this.endTime - this.startTime
+}
