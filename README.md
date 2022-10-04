@@ -6,4 +6,5 @@
 [252 253 2402 Meeting Rooms](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/MeetingRooms.kt).   
 
 ## Binary Search
-[034 Find First and Last Position of Element in Sorted Array](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FirstAndLastPosition.kt)
+[034 Find First and Last Position of Element in Sorted Array](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FirstAndLastPosition.kt).   
+[035. Search Insert Position](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SearchInsertPosition.kt)
