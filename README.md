@@ -11,5 +11,5 @@
 
 ## Tree
 [2331. Evaluate Boolean Binary Tree](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/EvaluateBooleanBinaryTree.kt).   
-
+[2277. Closest Node to Path in Tree](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ClosestNodeToPathInTree.kt)
 
