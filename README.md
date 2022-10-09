@@ -17,7 +17,8 @@
 ## Dynamic Programming
 [818. Race Car](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/RaceCar.kt).    
 [1048. Longest String Chain](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LongestStringChain.kt).   
-[1055. Shortest Way to Form String](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ShortestWayToFormString.kt)
+[1055. Shortest Way to Form String](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ShortestWayToFormString.kt).    
+[1937. Maximum Number of Points with Cost](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MaximumNumberOfPointsWithCost.kt)
 
 
 
