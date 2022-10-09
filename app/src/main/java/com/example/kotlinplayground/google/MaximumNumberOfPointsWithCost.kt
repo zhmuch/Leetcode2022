@@ -7,7 +7,7 @@ package com.example.kotlinplayground.google
 class MaximumNumberOfPointsWithCost {
 
     /**
-     * Solution:
+     * Solution 1:
      *
      * Obviously, dp
      *
@@ -39,4 +39,14 @@ class MaximumNumberOfPointsWithCost {
     }
 
     private fun abs(a: Int, b: Int) = kotlin.math.abs(a - b)
+
+    /**
+     * Solution 2:
+     *
+     * To further optimize:
+     * Notice that, for a certain index i, the maximum value for i is a index that could either
+     * come from its left, or its right(inclusive). Thus we can build two arrays, lft and rgt, and
+     * focus on the maximum value only coming from its left or right. Finding the best fit for a
+     * single index i could just cost O(1) time from then on.
+     */
 }
