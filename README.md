@@ -15,6 +15,8 @@
 [2421. Number of Good Paths](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/NumberOfGoodPaths.kt).   
 
 ## Dynamic Programming
-[818. Race Car](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/RaceCar.kt)
+[818. Race Car](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/RaceCar.kt).    
+[1048. Longest String Chain](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LongestStringChain.kt)
+
 
 
