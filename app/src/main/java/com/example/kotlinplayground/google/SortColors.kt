@@ -1,11 +1,11 @@
-package com.example.kotlinplayground.google.array
+package com.example.kotlinplayground.google
 
 /**
  * 75. Sort Colors
  *
  * https://leetcode.com/problems/sort-colors/
  */
-class Solution {
+class SortColors {
 
     /**
      * Solution 1:

@@ -1,4 +1,4 @@
-package com.example.kotlinplayground.google.array
+package com.example.kotlinplayground.google
 
 /**
  * 001
