@@ -1,9 +1,9 @@
 # Leetcode2022
 
 ## Array
-[001. Two Sum](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/TwoSum.ktm).  
-[004. Median of Two Sorted Arrays](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/MedianOfTwoSortedArrays.kt).  
-[252 253 2402 Meeting Rooms](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/MeetingRooms.kt).   
+[001. Two Sum](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/TwoSum.kt).  
+[004. Median of Two Sorted Arrays](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MedianOfTwoSortedArrays.kt).  
+[252 253 2402 Meeting Rooms](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MeetingRooms.kt).   
 
 ## Linked List
 [206. Reverse Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ReverseLinkedList.kt).    
@@ -12,7 +12,7 @@
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
-[75. Sort Colors](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/SortColors.kt).    
+[75. Sort Colors](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SortColors.kt).    
 [215. Kth Largest Element in an Array](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/KthLargestElementInAnArray.kt).       
 
 ## Binary Search
