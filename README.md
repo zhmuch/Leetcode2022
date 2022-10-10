@@ -7,7 +7,8 @@
 
 ## Linked List
 [206. Reverse Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ReverseLinkedList.kt).    
-[876. Middle of the Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MiddleOfTheLinkedList.kt)
+[876. Middle of the Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MiddleOfTheLinkedList.kt).    
+[92. Reverse Linked List II](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ReverseLinkedListII.kt)
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
