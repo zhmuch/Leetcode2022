@@ -5,6 +5,9 @@
 [004. Median of Two Sorted Arrays](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/MedianOfTwoSortedArrays.kt).  
 [252 253 2402 Meeting Rooms](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/MeetingRooms.kt).   
 
+## Sort
+[56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
+
 ## Binary Search
 [034. Find First and Last Position of Element in Sorted Array](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FirstAndLastPosition.kt).   
 [035. Search Insert Position](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SearchInsertPosition.kt).   
@@ -18,7 +21,7 @@
 [818. Race Car](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/RaceCar.kt).    
 [1048. Longest String Chain](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LongestStringChain.kt).   
 [1055. Shortest Way to Form String](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ShortestWayToFormString.kt).    
-[1937. Maximum Number of Points with Cost](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MaximumNumberOfPointsWithCost.kt)
+[1937. Maximum Number of Points with Cost](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MaximumNumberOfPointsWithCost.kt).     
 
 
 
