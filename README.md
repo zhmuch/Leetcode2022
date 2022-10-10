@@ -6,7 +6,8 @@
 [252 253 2402 Meeting Rooms](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/array/MeetingRooms.kt).   
 
 ## Linked List
-[206. Reverse Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ReverseLinkedList.kt).   
+[206. Reverse Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ReverseLinkedList.kt).    
+[876. Middle of the Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MiddleOfTheLinkedList.kt)
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
