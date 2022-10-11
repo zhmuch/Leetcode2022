@@ -15,6 +15,9 @@
 [54. Spiral Matrix](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SpiralMatrix.kt).    
 [362. Design Hit Counter](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/DesignHitCounter.kt).   
 
+## Stack
+[150. Evaluate Reverse Polish Notation](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/EvaluateReversePolishNotation.kt).    
+
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
 [75. Sort Colors](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SortColors.kt).    
