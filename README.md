@@ -13,6 +13,7 @@
 ## Queue
 [346. Moving Average from Data Stream](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MovingAverageFromDataStream.kt).     
 [54. Spiral Matrix](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SpiralMatrix.kt).    
+[362. Design Hit Counter](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/DesignHitCounter.kt).   
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
