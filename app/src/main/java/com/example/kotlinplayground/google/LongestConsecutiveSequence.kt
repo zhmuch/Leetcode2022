@@ -1,6 +1,6 @@
 package com.example.kotlinplayground.google
 
-import java.util.Hashtable
+import java.util.*
 
 /**
  * 128. Longest Consecutive Sequence
@@ -75,5 +75,36 @@ class LongestConsecutiveSequence {
         }
 
         return maxCount
+    }
+
+    /**
+     * Solution 3
+     *
+     * Cleaner solution
+     * This optimized algorithm contains only two changes from the brute force approach:
+     * the numbers are stored in a HashSet (or Set, in Python) to allow O(1)O(1) lookups,
+     * and we only attempt to build sequences from numbers that are not already part of a
+     * longer sequence. This is accomplished by first ensuring that the number that would
+     * immediately precede the current number in a sequence is not present, as that number
+     * would necessarily be part of a longer sequence.
+     */
+    open fun longestConsecutive2(nums: IntArray): Int {
+        val num_set: MutableSet<Int> = HashSet()
+        for (num in nums) {
+            num_set.add(num)
+        }
+        var longestStreak = 0
+        for (num in num_set) {
+            if (!num_set.contains(num - 1)) {
+                var currentNum = num
+                var currentStreak = 1
+                while (num_set.contains(currentNum + 1)) {
+                    currentNum += 1
+                    currentStreak += 1
+                }
+                longestStreak = Math.max(longestStreak, currentStreak)
+            }
+        }
+        return longestStreak
     }
 }
