@@ -46,5 +46,6 @@
 [1055. Shortest Way to Form String](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ShortestWayToFormString.kt).    
 [1937. Maximum Number of Points with Cost](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MaximumNumberOfPointsWithCost.kt).     
 
-
+## High Freq
+[1610. Maximum Number of Visible Points](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MaximumNumberOfVisiblePoints.kt).    
 
