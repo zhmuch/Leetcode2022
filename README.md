@@ -24,6 +24,7 @@
 
 ## Hashmap / Hashset
 [146. LRU Cache](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LRUCache.kt).    
+[128. Longest Consecutive Sequence](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LongestConsecutiveSequence.kt).     
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
