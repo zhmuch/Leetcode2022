@@ -10,7 +10,7 @@
 [876. Middle of the Linked List](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MiddleOfTheLinkedList.kt).    
 [92. Reverse Linked List II](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ReverseLinkedListII.kt).    
 
-## 
+## Queue
 [346. Moving Average from Data Stream](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MovingAverageFromDataStream.kt).     
 [54. Spiral Matrix](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SpiralMatrix.kt).    
 
