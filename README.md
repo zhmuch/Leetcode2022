@@ -17,6 +17,7 @@
 
 ## Stack
 [150. Evaluate Reverse Polish Notation](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/EvaluateReversePolishNotation.kt).    
+[224. Basic Calculator](https://github.com/zhmuch/LeetCode/blob/master/%23224%20Basic%20Calculator.java).   
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
