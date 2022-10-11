@@ -22,6 +22,9 @@
 [1249. Minimum Remove to Make Valid Parentheses](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MinimumRemoveToMakeValidParentheses.kt).   
 [735. Asteroid Collision](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/AsteroidCollision.kt).     
 
+## Hashmap / Hashset
+[146. LRU Cache](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LRUCache.kt).    
+
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
 [75. Sort Colors](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SortColors.kt).    
