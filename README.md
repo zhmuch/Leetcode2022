@@ -37,7 +37,7 @@
 [88. Merge Sorted Array](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeSortedArray.kt). 
 [347. Top K Frequent Elements](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/TopKFrequentElements.kt).       
 [692. Top K Frequent Words](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/TopKFrequentWords.kt).   
-
+[295. Find Median from Data Stream](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindMedianFromDataStream.kt).    
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
