@@ -26,6 +26,7 @@
 [146. LRU Cache](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LRUCache.kt).    
 [128. Longest Consecutive Sequence](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LongestConsecutiveSequence.kt).     
 [380. Insert Delete GetRandom O(1)](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/InsertDeleteGetRandomO(1).kt).    
+[49. Group Anagrams](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/GroupAnagrams.kt).     
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
