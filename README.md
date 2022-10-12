@@ -29,6 +29,9 @@
 [49. Group Anagrams](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/GroupAnagrams.kt).     
 [299. Bulls and Cows](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/BullsAndCows.kt).    
 
+## Heap / Priority Queue
+[973. K Closest Points to Origin](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/KClosestPointsToOrigin.kt).     
+
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
 [75. Sort Colors](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SortColors.kt).    
