@@ -31,6 +31,7 @@
 
 ## Heap / Priority Queue
 [973. K Closest Points to Origin](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/KClosestPointsToOrigin.kt).     
+[347. Top K Frequent Elements](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/TopKFrequentElements.kt).     
 
 ## Sort
 [56. Merge Intervals](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MergeIntervals.kt).   
