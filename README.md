@@ -51,7 +51,9 @@
 [035. Search Insert Position](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SearchInsertPosition.kt).   
 [162. Find Peak Element](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindPeakElement.kt).    
 [278. First Bad Version](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FirstBadVersion.kt).    
-[74. Search a 2D Matrix](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SearchA2DMatrix.kt).   
+[74. Search a 2D Matrix](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SearchA2DMatrix.kt). 
+[69. Sqrt(x)](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SqrtX.kt).    
+
 
 
 
