@@ -57,6 +57,10 @@
 [528. Random Pick with Weight](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/RandomPickWithWeight.kt).    
 [410. Split Array Largest Sum](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SplitArrayLargestSum.kt).     
 
+## Two Pointers
+[125. Valid Palindrome](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ValidPalindrome.kt).    
+
+
 
 ## Tree
 [2331. Evaluate Boolean Binary Tree](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/EvaluateBooleanBinaryTree.kt).   
