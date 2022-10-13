@@ -49,6 +49,8 @@
 ## Binary Search
 [034. Find First and Last Position of Element in Sorted Array](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FirstAndLastPosition.kt).   
 [035. Search Insert Position](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SearchInsertPosition.kt).   
+[162. Find Peak Element](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindPeakElement.kt).    
+
 
 ## Tree
 [2331. Evaluate Boolean Binary Tree](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/EvaluateBooleanBinaryTree.kt).   
