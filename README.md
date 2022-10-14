@@ -61,6 +61,7 @@
 [125. Valid Palindrome](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ValidPalindrome.kt).    
 [5. Longest Palindromic Substring](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LongestPalindromicSubstring.kt).    
 [647. Palindromic Substrings](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/PalindromicSubstrings.kt).   
+[15. 3Sum](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ThreeSum.kt).   
 
 
 ## Tree
