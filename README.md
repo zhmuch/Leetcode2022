@@ -59,7 +59,7 @@
 
 ## Two Pointers
 [125. Valid Palindrome](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ValidPalindrome.kt).    
-
+[5. Longest Palindromic Substring](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/LongestPalindromicSubstring.kt).    
 
 
 ## Tree
