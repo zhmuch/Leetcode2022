@@ -78,7 +78,7 @@ class LongestPalindromicSubstring {
      *
      * Dynamic Programming
      *
-     * dp[i][j] meaning if substring [i..j] is palindromic
+     * dp[i][j] meaning if substring i..j is palindromic
      *
      * dp[i][j] = di[i + 1][j - 1] && s[i] == s[j]
      */
