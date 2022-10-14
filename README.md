@@ -63,7 +63,7 @@
 [647. Palindromic Substrings](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/PalindromicSubstrings.kt).   
 [15. 3Sum](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ThreeSum.kt).   
 [16. 3Sum Closest](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ThreeSumClosest.kt).    
-
+[18. 4Sum](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FourSum.kt).    
 
 
 ## Tree
