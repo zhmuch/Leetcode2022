@@ -72,7 +72,7 @@
 [127. Word Ladder](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/WordLadder.kt).    
 [323. Number of Connected Components in an Undirected Graph](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/NumberOfConnectedComponentsInAnUndirectedGraph.kt).       
 [130. Surrounded Regions](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/SurroundedRegions.kt).   
-
+[752. Open the Lock](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/OpenTheLock.kt).    
 
 
 ## Tree
