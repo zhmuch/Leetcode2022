@@ -93,7 +93,10 @@
 [1091. Shortest Path in Binary Matrix](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ShortestPathInBinaryMatrix.kt).    
 [417. Pacific Atlantic Water Flow](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/PacificAtlanticWaterFlow.kt).    
 [207. Course Schedule](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/CourseSchedule.kt).    
-[210. Course Schedule II](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/CourseScheduleII.kt).    
+[210. Course Schedule II](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/CourseScheduleII.kt).   
+[269. Alien Dictionary](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/AlienDictionary.kt).      
+[310. Minimum Height Trees](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MinimumHeightTrees.kt).      
+[366. Find Leaves of Binary Tree](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindLeavesOfBinaryTree.kt).     
 
 
 
