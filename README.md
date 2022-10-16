@@ -92,6 +92,8 @@
 ## 思路
 [1091. Shortest Path in Binary Matrix](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/ShortestPathInBinaryMatrix.kt).    
 [417. Pacific Atlantic Water Flow](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/PacificAtlanticWaterFlow.kt).    
+[207. Course Schedule](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/CourseSchedule.kt).    
+[210. Course Schedule II](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/CourseScheduleII.kt).    
 
 
 
