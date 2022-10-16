@@ -97,6 +97,11 @@
 [269. Alien Dictionary](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/AlienDictionary.kt).      
 [310. Minimum Height Trees](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MinimumHeightTrees.kt).      
 [366. Find Leaves of Binary Tree](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindLeavesOfBinaryTree.kt).     
+[45. Jump Game II](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/JumpGameII.kt).    
+[68. Text Justification](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/TextJustification.kt).     
+[2115. Find All Possible Recipes from Given Supplies](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindAllPossibleRecipesFromGivenSupplies.kt).    
+[2096. Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/StepByStepDirectionsFromABinaryTreeNodeToAnother.kt).    
+[2092. Find All People With Secret](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindAllPeopleWithSecret.kt).    
 
 
 
