@@ -102,6 +102,12 @@
 [2115. Find All Possible Recipes from Given Supplies](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindAllPossibleRecipesFromGivenSupplies.kt).    
 [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/StepByStepDirectionsFromABinaryTreeNodeToAnother.kt).    
 [2092. Find All People With Secret](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindAllPeopleWithSecret.kt).    
+[1554. Strings Differ by One Character](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/StringsDifferByOneCharacter.kt).     
+[1723. Find Minimum Time to Finish All Jobs](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindMinimumTimeToFinishAllJobs.kt).     
+[1539. Kth Missing Positive Number](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/KthMissingPositiveNumber.kt).     
+[1525. Number of Good Ways to Split a String](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/NumberOfGoodWaysToSplitAString.kt).     
+[1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.kt).     
+[1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/zhmuch/Leetcode2022/blob/main/app/src/main/java/com/example/kotlinplayground/google/FindTwoNonoverlappingSubarraysEachWithTargetSum.kt).     
 
 
 
